@@ -1,0 +1,17 @@
+{
+  "name": "forecast",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --config webpack.config.js --inline"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.11.1",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0"
+  }
+}
